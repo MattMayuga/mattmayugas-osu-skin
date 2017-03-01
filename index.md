@@ -2,34 +2,9 @@
 
 You can find my personal skins for use on osu!.
 
-### March 1st, 2017 skin
+**Click on the skin name to download. If the download does not start or displays strange characters, press ctrl + S.**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Even if it says can't import the skins should work fine. If you're sure it doesn't work make sure you are on beta or cuttingedge. If you still can't get the skin to work mention me in twitch chat and explain the problem in detail.**
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MattMayuga/mattmayugas-osu-skin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# [March 1st, 2017 skin](https://www.dropbox.com/s/wxaab5gf5tl68hh/MattMayuga%27s%20Skin%20%28March%201st%2C%202017%29.osk?dl=0)
+![Supporter Main Menu Screen](https://github.com/MattMayuga/mattmayugas-osu-skin/blob/master/Mm's%20Personal%20Skin%20(Mar.%201st,%202017)%20screenshots/screenshot718.png?raw=true)

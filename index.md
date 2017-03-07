@@ -8,10 +8,10 @@ You can find my personal skins for use on osu!.
 
 # [March 7th, 2017 skin](https://www.dropbox.com/s/dvs47lu68tx2vr9/MattMayuga%27s%20Skin%20%28March%207th%2C%202017%29.osk?dl=)
 **Changelog**
-1. New main menu background
-1. New ranking panel
-1. More sounds added
-1. New osu!mania and osu! hit scores
+- New main menu background
+- New score and combo numbers
+- More sounds added
+- New osu!mania and osu! hit scores
 Supporter only Main Menu Screen
 ![](https://github.com/MattMayuga/mattmayugas-osu-skin/blob/master/MM's%20personal%20skin%20Mar%207,%202017%20screenshots/screenshot760.png?raw=true)
 Ranking Screen (osu!)
